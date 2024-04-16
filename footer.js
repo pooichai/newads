@@ -10,7 +10,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl23076151.profitablegatecpm.com/26/91/11/26911136527cc64650ec3fad14b96edb.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/ea7073a5f88001ce3ea7a9725829313d/invoke.js"></scr' + 'ipt>');
 // Batas Iklan
 
 document.write('</div>');
