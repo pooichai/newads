@@ -3,14 +3,16 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-		atOptions = {
+<script type="text/javascript">
+	atOptions = {
 		'key' : 'ea7073a5f88001ce3ea7a9725829313d',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/ea7073a5f88001ce3ea7a9725829313d/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/ea7073a5f88001ce3ea7a9725829313d/invoke.js"></script>
 // Batas Iklan
 
 document.write('</div>');
