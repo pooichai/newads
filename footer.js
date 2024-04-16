@@ -4,7 +4,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 //Paste Iklan Disini
 
 		atOptions = {
-		'key' : '00cd8e71a598d3131381d005535ef9fc',
+		'key' : 'ea7073a5f88001ce3ea7a9725829313d',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
