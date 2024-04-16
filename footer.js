@@ -1,18 +1,1 @@
-document.write('<div id="floatads" style="width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; bottom:0;z-index:9999">');
-document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto">');
-
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'ea7073a5f88001ce3ea7a9725829313d',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/ea7073a5f88001ce3ea7a9725829313d/invoke.js"></script>
-
-
-document.write('</div>');
-document.write('</div>');
+<script type="text/javascript"> document.body.onclick= function(){ window.open('https://drive.google.com/', 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=1, width=650, height=650, left = 300, top = 50'); }</script>
